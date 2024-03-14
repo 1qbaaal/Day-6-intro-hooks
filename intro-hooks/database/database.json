@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "mustofajason",
+      "password": "qwerty123"
+    },
+    {
+      "id": 2,
+      "username": "iqbaljason",
+      "password": "qwerty123"
+    },
+    {
+      "id": 3,
+      "username": "irfanjason",
+      "password": "qwerty123"
+    },
+    {
+      "id": 4,
+      "username": "barentjason",
+      "password": "qwerty123"
+    },
+    {
+      "id": 5,
+      "username": "alifjason",
+      "password": "qwerty123"
+    },{
+      "id": 6,
+      "username": "geejason",
+      "password": "qwerty123"
+    }
+  ],
+  "products":[
+    {
+      "id": 1,
+      "product": "Alat Pancing"
+    }
+  ]
+}
